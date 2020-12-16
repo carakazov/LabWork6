@@ -1,1 +1,1 @@
-Some string
+Changed string
